@@ -42,7 +42,7 @@ namespace MixerPad
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(379, 51);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Mixerteka MixerPad\r\nВерсия 1.0 (сборка 17122201)\r\n© Mixerteka (Mixerteka Team), 2" +
+            this.label1.Text = "Mixerteka MixerPad\r\nВерсия 1.0 (сборка 18122201)\r\n© Mixerteka (Mixerteka Team), 2" +
     "022. Все права защищены";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
